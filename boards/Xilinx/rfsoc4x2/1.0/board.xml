@@ -9,7 +9,7 @@
  WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
  License for the specific language governing permissions and limitations
  under the License. -->
-<board schema_version="2.1" vendor="realdigital.org" name="rfsoc4x2" display_name="Zynq UltraScale+ RFSoC 4x2 Development Board" url="www.rfsoc-pynq.io" preset_file="preset.xml">
+<board schema_version="2.1" vendor="xilinx.com" name="rfsoc4x2" display_name="Zynq UltraScale+ RFSoC 4x2 Development Board" url="https://www.xilinx.com/support/university/xup-boards/RFSoC4x2.html" preset_file="preset.xml">
   <images>
     <image name="rfsoc4x2_board.png" display_name="RFSoC 4x2 BOARD" sub_type="board">
       <description>RFSoC 4x2 Board File Image</description>
